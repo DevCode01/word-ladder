@@ -1,5 +1,7 @@
 # Word Ladder
 
+![Screenshot](preview.png)
+
 A terminal-based Word Ladder (Doublets) puzzle game in Node.js.
 
 Transform one word into another by changing a single letter at a time, with each intermediate step being a valid word.
